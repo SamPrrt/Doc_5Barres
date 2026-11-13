@@ -2,13 +2,14 @@
    sphinx-quickstart on Fri Nov 13 15:44:52 2026.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+   
 
-TrSpAa_5Barres documentation
-============================
+Projet 5 barres
+===============
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Cette documentation décrit notre système 5 barres de dessin robotisé.
+Il est piloté par une Raspberry Pi sous ROS2 avec des moteurs Dynamixel.
+Auteurs : Amine ALAOUI, Samuel PERROT, Thomas ROUX.
 
 
 .. toctree::
